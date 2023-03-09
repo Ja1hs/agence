@@ -1,0 +1,62 @@
+@font-face {
+    font-family: HaveHeartOne;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/HaveHeartOne.eot);
+    src: url(../fonts/HaveHeartOne.eot?#iefix) format('embedded-opentype'),url(../fonts/HaveHeartOne.woff2) format('woff2'),url(../fonts/HaveHeartOne.woff) format('woff'),url(../fonts/HaveHeartOne.ttf) format('truetype'),url(../fonts/HaveHeartOne.svg#HaveHeartOne) format('svg');
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Homemade Apple';
+    font-weight: 400;
+    font-style: normal;
+    src: url(../fonts/HomemadeApple-Regular.eot);
+    src: url(../fonts/HomemadeApple-Regular.eot?#iefix) format('embedded-opentype'),url(../fonts/HomemadeApple-Regular.woff2) format('woff2'),url(../fonts/HomemadeApple-Regular.woff) format('woff'),url(../fonts/HomemadeApple-Regular.ttf) format('truetype'),url(../fonts/HomemadeApple-Regular.svg#HomemadeApple-Regular) format('svg');
+    font-display: swap
+}
+
+@font-face {
+    font-family: MuseoSansCyrl;
+    font-style: normal;
+    font-weight: 100;
+    src: url(../fonts/MuseoSansCyrl.eot);
+    src: local('☺'),url(../fonts/MuseoSansCyrl.woff) format('woff'),url(../fonts/MuseoSansCyrl.ttf) format('truetype'),url(../fonts/MuseoSansCyrl.svg) format('svg');
+    font-display: swap
+}
+
+@font-face {
+    font-family: MuseoSansCyrl;
+    font-style: normal;
+    font-weight: 300;
+    src: url(../fonts/MuseoSansCyrl_300.eot);
+    src: local('☺'),url(../fonts/MuseoSansCyrl_300.woff) format('woff'),url(../fonts/MuseoSansCyrl_300.ttf) format('truetype'),url(../fonts/MuseoSansCyrl_300.svg) format('svg');
+    font-display: swap
+}
+
+@font-face {
+    font-family: MuseoSansCyrl;
+    font-style: normal;
+    font-weight: 500;
+    src: url(../fonts/MuseoSansCyrl_500.eot);
+    src: local('☺'),url(../fonts/MuseoSansCyrl_500.woff) format('woff'),url(../fonts/MuseoSansCyrl_500.ttf) format('truetype'),url(../fonts/MuseoSansCyrl_500.svg) format('svg');
+    font-display: swap
+}
+
+@font-face {
+    font-family: MuseoSansCyrl;
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/MuseoSansCyrl_700.eot);
+    src: local('☺'),url(../fonts/MuseoSansCyrl_700.woff) format('woff'),url(../fonts/MuseoSansCyrl_700.ttf) format('truetype'),url(../fonts/MuseoSansCyrl_700.svg) format('svg');
+    font-display: swap
+}
+
+@font-face {
+    font-family: MuseoSansCyrl;
+    font-style: normal;
+    font-weight: 900;
+    src: url(../fonts/MuseoSansCyrl_900.eot);
+    src: local('☺'),url(../fonts/MuseoSansCyrl_900.woff) format('woff'),url(../fonts/MuseoSansCyrl_900.ttf) format('truetype'),url(../fonts/MuseoSansCyrl_900.svg) format('svg');
+    font-display: swap
+}
